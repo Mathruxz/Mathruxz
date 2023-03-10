@@ -1,6 +1,6 @@
 ### 👾 >Hello World< Matheus here! 
 ##
--  🎯 My goal is to be a **Fullstack Developer**
+-  🎯 My goal is to be a **Full Stack Developer**
 -  <sub>**NEVER** stop 🌱 Learning</sub>
 -  <sub>**Professional Email:** reynaudmatheus@outlook.com</sub>
 
