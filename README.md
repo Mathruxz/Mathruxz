@@ -8,7 +8,6 @@
 ##
 <a href="https://github.com/mathreux"> 
   
-![Matheus GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathreux&show_icons=true&theme=github_dark&layout=compact&hide_border=true&bg_color=00000000&text_color=888c91)
-
 ![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathreux&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&text_color=888c91)
+![Matheus GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathreux&show_icons=true&theme=github_dark&layout=compact&hide_border=true&bg_color=00000000&text_color=888c91)
 ***
