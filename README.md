@@ -3,7 +3,7 @@
 
 -  <sub>🎯 My goal is to be a **Full Stack** Developer</sub>
 -  <sub>🌱 _NEVER_ stop learning</sub>
--  <sub>📧 Professional Email: <a href="reynaudmatheus@outlook.com">Matheus Reynaud</a></sub>
+-  <sub>📧 Professional Email: <a href='reynaudmatheus@outlook.com'>Matheus Reynaud</a></sub>
 
 ##
 <a href="https://github.com/mathreux"> 
