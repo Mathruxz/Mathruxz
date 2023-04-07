@@ -10,4 +10,3 @@
 -  <sub>📧 Professional Email: <a href="mailto:reynaudmatheus@outlook.com">Matheus Reynaud</a></sub>
 
 <sub>May the Force be With You</sub>
-
