@@ -3,7 +3,7 @@
 01001010 01100101 01100100 01101001 👾
 
 - 🏆 My Goal is to be a **Software Developer**
-- ✔️ Discipline is the Routine
+- ✔️ Discipline and Consistency
 - 🎯 Keep your Focus
 - 🌱 _NEVER_ Stop Learning
 - 📩 Professional Email: <a href="mailto:mathruxz@gmail.com">Matheus Reynaud</a>
