@@ -6,9 +6,9 @@
 - ✔️ Discipline and Consistency
 - 🎯 Keep your Focus
 - 🌱 _NEVER_ Stop Learning
-- 📩 Professional Email: <a href="mailto:matheuxcode@gmail.com">Matheus Reynaud</a>
 #
-- 📋 Resume: <a href="https://docs.google.com/document/d/1tZDVT_Ib5vmgnQiNQzH5iItnE3qbfYFy/edit?usp=sharing&ouid=111368209930853692993&rtpof=true&sd=true">English </a>
+- 📩 <a href="mailto:matheuxcode@gmail.com">Contact</a>
+- 📋 <a href="https://docs.google.com/document/d/1tZDVT_Ib5vmgnQiNQzH5iItnE3qbfYFy/edit?usp=sharing&ouid=111368209930853692993&rtpof=true&sd=true">Resume </a>
 
 
 **_This is the way_**
