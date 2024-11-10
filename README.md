@@ -9,6 +9,3 @@
 #
 - 📩 <a href="mailto:matheusreynaud@icloud.com">Contact</a>
 - 📋 <a href="https://docs.google.com/document/d/1tZDVT_Ib5vmgnQiNQzH5iItnE3qbfYFy/edit?usp=sharing&ouid=111368209930853692993&rtpof=true&sd=true">Resume </a>
-
-
-**_This is the way_**
